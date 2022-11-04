@@ -32,7 +32,7 @@ export const journalSlice = createSlice({
       state.isSaving = false;
 
       // tenemos que actualizar
-      state.notes = state.notes.map((note) => {
+      state.notes = state.notes?.map((note) => {
         if (note.id === action.payload.id) {
           return action.payload;
         }
