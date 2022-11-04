@@ -6,17 +6,16 @@ import { getEnvironments } from "../helpers/getEnvironments";
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
-//por alguna razon tengo que setear una funcion para spredear las variables e importarlas de esa funcion y usarlas
-const env = getEnvironments();
+//const env = getEnvironments();
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: env.VITE_API_KEY,
-  authDomain: env.VITE_AUTH_DOMAIN,
-  projectId: env.VITE_PROJECT_ID,
-  storageBucket: env.VITE_STORAGE_BUCKET,
-  messagingSenderId: env.VITE_MESSAGING_SENDER_ID,
-  appId: env.VITE_APPI_ID,
+  apiKey: "AIzaSyAnvLWXzhAZUD87vi10FutZis1zwcDq4w4",
+  authDomain: "react-journal-d2c9f.firebaseapp.com",
+  projectId: "react-journal-d2c9f",
+  storageBucket: "react-journal-d2c9f.appspot.com",
+  messagingSenderId: "839421215317",
+  appId: "1:839421215317:web:1be684273125972058cadc",
 };
 
 // Initialize Firebase
