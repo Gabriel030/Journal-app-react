@@ -23,7 +23,7 @@
 
 ## Resultados
 ### Video presentacion del proyecto
-[![Watch the video](https://raw.githubusercontent.com/Gabriel030/Journal-app-react/main/preview.jpg)](https://vimeo.com/767916784)
+[![Watch the video](https://raw.githubusercontent.com/Gabriel030/Journal-app-react/main/preview.jpg)](https://vimeo.com/769493992)
 
 
 ### Requerimientos mínimos:
