@@ -5,7 +5,7 @@
 </p>
 
 # Link del Proyecto - 
-**[JournalApp](https://journal-app-react-mjltr6ygk-gabriel030.vercel.app/auth/login)**
+**[JournalApp](https://journal-app-react-gabriel030.vercel.app/)**
 
 
 
